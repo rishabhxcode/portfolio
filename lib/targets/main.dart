@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:portfolio/modules/home/screens/portfolio_home.dart';
+
+import '../modules/home/screens/desktop_home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,6 +22,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
